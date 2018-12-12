@@ -1,0 +1,1 @@
+window.calculator = new CalcController(); //Quando crio com o "window.", já crio como variavel global
